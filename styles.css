@@ -609,8 +609,8 @@ table {
   font-style: normal; }
 @font-face {
   font-family: "Gotham";
-  src: url("fonts/gotham-book.eot");
-  src: url("fonts/gotham-book.eot?#iefix") format("embedded-opentype"), url("fonts/gotham-book.woff") format("woff"), url("fonts/gotham-book.ttf") format("truetype"), url("fonts/gotham-book.svg#Icons") format("svg");
+  /* src: url("fonts/gotham-book.eot");
+  src: url("fonts/gotham-book.eot?#iefix") format("embedded-opentype"), url("fonts/gotham-book.woff") format("woff"), url("fonts/gotham-book.ttf") format("truetype"), url("fonts/gotham-book.svg#Icons") format("svg"); */
   font-weight: 400;
   font-style: normal; }
 /*** CUSTOM ***/

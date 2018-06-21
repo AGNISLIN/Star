@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Slice 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6.25794921,20.5 C5.62897461,20.5 5,19.9530351 5,19.1872841 L5,9.81271586 C5,9.15635793 5.5241455,8.5 6.25794921,8.5 L17.7420508,8.5 C18.3710254,8.5 19,9.04696494 19,9.81271586 L19,19.2966771 C18.8951709,19.9530351 18.3710254,20.5 17.7420508,20.5 L6.25794921,20.5 Z" id="Shape" stroke="#C2A661" stroke-linecap="round" stroke-linejoin="round"></path>
+        <rect id="Combined-Shape" fill="#C2A661" x="11.5" y="14" width="1" height="3"></rect>
+        <circle id="Oval-2" stroke="#C2A661" cx="12" cy="13.5" r="1"></circle>
+        <path d="M16,7.8083199 C16,7.8083199 16,8.709139 16,6.5 C16,4.290861 14.209139,2.5 12,2.5 C9.790861,2.5 8,4.290861 8,6.5 C8,7.40085461 8,7.8083199 8,7.8083199" id="Oval" stroke="#C2A661" stroke-linecap="square" stroke-linejoin="round"></path>
+    </g>
+</svg>
